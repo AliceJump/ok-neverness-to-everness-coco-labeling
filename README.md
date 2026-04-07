@@ -1,6 +1,7 @@
-### 这是标注的源文件, 调用compress.py进行压缩后自动输出到assets/images下
+### 标注流程说明
 
-1. 使用 https://github.com/CVHub520/X-AnyLabeling 进行标注
-2. 运行xanylabeling 软件打开 project_dir
-3. 添加图片到project_dir, 使用软件进行标注
-4. 运行compress.py, cwd需要是项目根目录, 导出并替换
+1. 运行 `DEBUG.py` 启动项目。
+2. 在侧边导航栏找到并点击 **“模版”** 选项卡进入标注页面。
+3. 完成标注后，点击 **“保存”** 按钮。
+4. 在弹出的选项中选择 **“(assets)独立应用”** 并确认。
+5. 系统将自动运行压缩逻辑，并将处理后的文件更新至 `assets/images` 目录下。
