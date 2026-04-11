@@ -1,6 +1,6 @@
 ### 标注说明
 
-本工具是 [ok-neverness-to-everness](https://github.com/BnanZ0/ok-neverness-to-everness) 的配套标注档案库，用于管理和处理标注数据。
+本工具是 [ok-nte](https://github.com/BnanZ0/ok-nte) 的配套标注档案库，用于管理和处理标注数据。
 
 #### 标注流程：
 1. 运行 `DEBUG.py` 启动项目。
